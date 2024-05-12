@@ -162,7 +162,7 @@ body .vendor_list_nav .overlay .overlay-content .login-content .input-div div h5
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  color: #B52421;
+  color: #215ab5;
   font-size: 18px;
   -webkit-transition: .3s;
   transition: .3s;
@@ -250,7 +250,7 @@ body .vendor_list_nav .overlay .overlay-content .login-content p {
 }
 
 body .vendor_list_nav .overlay .overlay-content .login-content p span a {
-  color: #B52421;
+  color: #215ab5;
   font-size: 0.75rem;
   line-height: 1.25rem;
   text-transform: none;
@@ -263,8 +263,8 @@ body .vendor_list_nav .overlay .overlay-content .login-content .btn {
   height: 50px;
   outline: none;
   border: none;
-  background-image: -webkit-gradient(linear, left top, right top, from(#A3201E), color-stop(#B52421), to(rgba(181, 38, 33, 0.884)));
-  background-image: linear-gradient(to right, #A3201E, #B52421, rgba(181, 38, 33, 0.884));
+  background-image: -webkit-gradient(linear, left top, right top, from(#A3201E), color-stop(#215ab5), to(rgba(181, 38, 33, 0.884)));
+  background-image: linear-gradient(to right, #A3201E, #215ab5, rgba(181, 38, 33, 0.884));
   background-size: 200%;
   font-size: 1rem;
   color: #fff;
